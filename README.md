@@ -7,3 +7,5 @@ And here is some more text.
 again, going over git class.
 
 trying again
+
+trying again
