@@ -9,3 +9,5 @@ again, going over git class.
 trying again
 
 trying again
+
+more text with lesson
